@@ -1,3 +1,10 @@
+data/mp3c*
+data/DR3*MP3C*
+data/DR3*Objects*
+outputs/*
+!outputs/README.md
+brown_fig1.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
