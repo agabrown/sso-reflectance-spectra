@@ -1,0 +1,2 @@
+# Input data for reflectance spectra analysis
+Not all data is stored on Github. The MP3C best values table can be downloaded from the [website](https://mp3c.oca.eu/) by doing a "best values search" without constraints on the objects. Download as VOTable and the convert to FITS (for faster access) using Astropy facilities or [TOPCAT](https://www.star.bris.ac.uk/~mbt/topcat/).
